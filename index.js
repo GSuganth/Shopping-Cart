@@ -2,7 +2,7 @@
 let itemlist = []
 let data
 function change(id) {
-  fetch("/appliancies.json").then((res) => res.json()).then((data) => {
+  fetch("./appliancies.json").then((res) => res.json()).then((data) => {
     let filterArray = data.filter((item) => item.filter_id == id)
     let div = `<div class="ans">`
     filterArray.forEach((x) => {
