@@ -1,0 +1,209 @@
+[
+    {
+        "filter_id" : 1,
+        "products" :[
+            {
+                "product_id" : 1,
+                "product_name" : "Bean Bag",
+                "imgSrc" : "./homeappliance/beanbag.jpeg",
+                "price" : 5000
+            },
+            {
+                "product_id" : 2,
+                "product_name" : "wooden Bed",
+                "imgSrc" : "./homeappliance/bed.jpeg",
+                "price" : 8000
+            },
+            {
+                "product_id" : 3,
+                "product_name" : "Electric cooker",
+                "imgSrc" : "./homeappliance/cooker.jpeg",
+                "price" : 2000
+            },
+            {
+                "product_id" : 4,
+                "product_name" : "Curyain",
+                "imgSrc" : "./homeappliance/curtain.jpeg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 5,
+                "product_name" : "Iron box",
+                "imgSrc" : "./homeappliance/ironbox.jpeg",
+                "price" : 900
+            },
+            {
+                "product_id" : 6,
+                "product_name" : "Pillow",
+                "imgSrc" : "./homeappliance/pillow.jpeg",
+                "price" : 500
+            }
+        ]
+    },
+      {
+        "filter_id" :2,
+        "products" :[
+            {
+                "product_id" : 7,
+                "product_name" : "T-shirt",
+                "imgSrc" : "./menswear/alonetshirt.jpeg",
+                "price" : 700
+            },
+            {
+                "product_id" : 8,
+                "product_name" : "Cargo pant",
+                "imgSrc" : "./menswear/cargopant.jpeg",
+                "price" : 500
+            },
+            {
+                "product_id" : 9,
+                "product_name" : "Coat",
+                "imgSrc" : "./menswear/coat.jpeg",
+                "price" : 2000
+            },
+            {
+                "product_id" : 10,
+                "product_name" : "Formal Pant",
+                "imgSrc" : "./menswear/formalPant.jpeg",
+                "price" : 900
+            },
+            {
+                "product_id" : 11,
+                "product_name" : "Shirt",
+                "imgSrc" :"./menswear/men1.webp",
+                "price" : 750
+            },
+            {
+                "product_id" : 12,
+                "product_name" : "Full-Hand T-shirt",
+                "imgSrc" : "./menswear/men2.webp",
+                "price" : 450
+            }
+        ]
+    },
+    {
+        "filter_id" : 3,
+        "products" : [
+            {
+                "product_id" : 13,
+                "product_name" : "Party Dress",
+                "imgSrc" : "./womenswear/westernParty.webp",
+                "price" : 1700
+            },
+            {
+                "product_id" : 14,
+                "product_name" : "Chudithar",
+                "imgSrc" : "./womenswear/chudirhar.jpeg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 15,
+                "product_name" : "Kurta",
+                "imgSrc" : "./womenswear/Kurta.webp",
+                "price" : 2000
+            },
+            {
+                "product_id" : 16,
+                "product_name" : "Kanchipuram silk",
+                "imgSrc" : "./womenswear/kanchipuramsilk.jpeg",
+                "price" : 5900
+            },
+            {
+                "product_id" : 17,
+                "product_name" : "Elegant Cotton",
+                "imgSrc" :"./womenswear/Elegantcotton.jpeg",
+                "price" : 1000
+            },
+            {
+                "product_id" : 18,
+                "product_name" : "Cotton Tant saree",
+                "imgSrc" : "./womenswear/cottontant.jpg",
+                "price" : 750
+            }
+        ]
+      },
+      {
+        "filter_id" :4,
+        "products" :[
+            {
+                "product_id" : 19,
+                "product_name" : "Biriyani",
+                "imgSrc" : "./food/biriyani.jpeg",
+                "price" : 150
+            },
+            {
+                "product_id" : 20,
+                "product_name" : "Burger",
+                "imgSrc" : "./food/burger.jpeg",
+                "price" : 200
+            },
+            {
+                "product_id" : 21,
+                "product_name" : "French fries",
+                "imgSrc" : "./food/frenchfries.jpeg",
+                "price" : 250
+            },
+            {
+                "product_id" : 22,
+                "product_name" : "Pani poori",
+                "imgSrc" : "./food/panipuri.jpeg",
+                "price" : 50
+            },
+            {
+                "product_id" : 23,
+                "product_name" : "Pizza",
+                "imgSrc" :"./food/pizza.jpeg",
+                "price" : 220
+            },
+            {
+                "product_id" : 24,
+                "product_name" : "Sambar",
+                "imgSrc" : "./food/sambar.jpeg",
+                "price" : 50
+            }
+        ]
+      },
+      {
+        "filter_id" : 5,
+        "products" :[
+            {
+                "product_id" : 25,
+                "product_name" : "Build don't talk",
+                "imgSrc" : "./book/build.webp",
+                "price" : 100
+            },
+            {
+                "product_id" : 26,
+                "product_name" : "Deep work",
+                "imgSrc" : "./book/deepwork.webp",
+                "price" : 120
+            },
+            {
+                "product_id" : 27,
+                "product_name" : "It Ends With Us",
+                "imgSrc" : "./book/itends.webp",
+                "price" : 200
+            },
+            {
+                "product_id" : 28,
+                "product_name" : "Java programming",
+                "imgSrc" : "./book/javabook.jpeg",
+                "price" : 500
+            },
+            {
+                "product_id" : 29,
+                "product_name" : "Python program",
+                "imgSrc" :"./book/python.jpg",
+                "price" : 220
+            },
+            {
+                "product_id" : 30,
+                "product_name" : "C programming",
+                "imgSrc" : "./book/Cprogram.jpg",
+                "price" : 250
+            }
+ 
+        ]
+      }
+    
+]
